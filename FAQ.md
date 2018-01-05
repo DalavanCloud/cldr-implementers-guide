@@ -1,4 +1,4 @@
-CLDR : Implementer’s FAQ
+[CLDR](http://cldr.unicode.org) : Implementer’s FAQ
 ===
 
 To update this document, see [Contributing](#contributing).
@@ -33,6 +33,8 @@ The English has been reviewed, as have the names for England, Scotland, and Wale
 ## Contributing
 
 See an issue? Want to contribute? Please open a pull request at https://github.com/unicode-org/cldr-implementers-guide (You will be asked to sign the CLA when the PR is open, which is one-click with Github)
+
+This document is part of the [CLDR Implementer’s Guide](README.md)
 
 
 ## License
