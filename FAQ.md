@@ -1,6 +1,8 @@
 CLDR : Implementer’s FAQ
 ===
 
+To update this document, see [Contributing](#contributing).
+
 ### ​Q. Why has CLDR lowercased and dropped the hyphen from the ISO-3166-2 codes, e.g. “AD-02” becomes “ad02”
 
 It was done because the identifiers have to be used in a BCP47 context, which puts limitations on the format of identifiers.
