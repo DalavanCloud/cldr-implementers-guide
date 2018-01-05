@@ -1,6 +1,7 @@
 # cldr-implementers-guide
 Implementer’s Guide for [CLDR](http://unicode.org/cldr)
 
+- See [FAQ](./FAQ.md)
 
 # META
 ## HISTORY
